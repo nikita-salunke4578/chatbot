@@ -13,7 +13,7 @@ target/
 .springBeans
 .sts4-cache
 
-test/
+src/test
 
 ### IntelliJ IDEA ###
 .idea
